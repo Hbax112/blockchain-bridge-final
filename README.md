@@ -97,9 +97,18 @@ args <AdminCap_object_id> 10000 --gas-budget 10000000
 
 ##Cu aceste informatii luate din walleturile de mai sus, modificam fisierele 
 ```bash
+
 bridge.sh
 bridgeUtils.ts
 ```
 si adaugam adresele noastre.
    
 
+## Pornim serverul
+```bash
+./scrips
+node server.js
+
+./blockchain-bridge-final
+npm run dev
+```
