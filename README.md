@@ -102,7 +102,9 @@ bridge.sh
 bridgeUtils.ts
 ```
 si adaugam adresele noastre.
-   
+
+   ## Observatie
+   Daca walleturile au fost deja configurate, atunci se vor efectua doar pasii 2,5,6,7 din Metamask si pasii 2,7,8,9,10 din Sui.
 
 ## Pornim serverul
 ```bash
