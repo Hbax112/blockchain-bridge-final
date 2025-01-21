@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "composite": true,                   // Necesită "composite" pentru referințe
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "strict": true,
+      "forceConsistentCasingInFileNames": true,
+      "allowSyntheticDefaultImports": true,
+      "resolveJsonModule": true
+    },
+    "include": ["src"]
+  }
+  
