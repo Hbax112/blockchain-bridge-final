@@ -19,12 +19,12 @@ Acest document detaliază pașii necesari pentru configurarea wallet-urilor Ethe
 anvil
 ```
 Avem nevoie de chain ID pentru a seta metamask
-![Alt text](pas4.png)
+![Alt text](pas4.PNG)
 
 3. **Metamask**
    In metamask adaugam un costum network.
    Setam url ul local http://127.0.0.1:8545 si punem Chain ID ul luat din pasul anterior (31337)
-    ![Alt text](pas7.png)
+    ![Alt text](pas7.PNG)
 
 4. **Importam Private Key**
   Din anvil, luam una din Private Key-urile puse la dispozitie de ei. 
